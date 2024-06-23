@@ -8,6 +8,9 @@ public class VendorCalcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VendorCalcApplication.class, args);
+
+		System.out.print("test");
 	}
+
 
 }
